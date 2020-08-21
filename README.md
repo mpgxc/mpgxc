@@ -18,8 +18,8 @@ Full-Stack | Software engineer | ⌛ (In progress)
 
 ## ➤ Social media :mailbox_with_no_mail:
 
-[![Linkedin URL](https://img.shields.io/twitter/url?color=%2380ff80&label=Linkedin%2Fmpgxc&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/mpgxc)](https://www.linkedin.com/in/mpgxc)
-[![Instagram URL](https://img.shields.io/twitter/url?color=%2380ff80&label=Instagram%2Fmpgxc&logo=instagram&logoColor=%23FFF&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com/mpgx.c)](https://www.instagram.com/mpgx.c)
+[![Linkedin URL](https://img.shields.io/twitter/url?color=8257e5&label=Linkedin%2Fmpgxc&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/mpgxc)](https://www.linkedin.com/in/mpgxc)
+[![Instagram URL](https://img.shields.io/twitter/url?color=8257e5&label=Instagram%2Fmpgxc&logo=instagram&logoColor=%23FFF&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com/mpgx.c)](https://www.instagram.com/mpgx.c)
 </samp>
-[![Twitter URL](https://img.shields.io/twitter/url?color=%232380ff80&label=Kaggle%2Fmpgxc&logo=kaggle&logoColor=FFF&style=for-the-badge&url=https%3A%2F%2Fwww.kaggle.com%2Fxwalker)](https://www.kaggle.com/xwalker)
-[![Twitter URL](https://img.shields.io/twitter/url?color=%232380ff80&label=rocketseat%2Fmpgxc&logo=k&logoColor=FFF&style=for-the-badge&url=https%3A%2F%2Fwww.kaggle.com%2Fxwalker)](https://app.rocketseat.com.br/me/mpgxc)
+[![Twitter URL](https://img.shields.io/twitter/url?color=8257e5&label=Kaggle%2Fmpgxc&logo=kaggle&logoColor=FFF&style=for-the-badge&url=https%3A%2F%2Fwww.kaggle.com%2Fxwalker)](https://www.kaggle.com/xwalker)
+[![Twitter URL](https://img.shields.io/twitter/url?color=8257e5&label=rocketseat%2Fmpgxc&logo=k&logoColor=FFF&style=for-the-badge&url=https%3A%2F%2Fwww.kaggle.com%2Fxwalker)](https://app.rocketseat.com.br/me/mpgxc)
