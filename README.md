@@ -22,3 +22,4 @@ Full-Stack | Software engineer | ⌛ (In progress)
 [![Instagram URL](https://img.shields.io/twitter/url?color=%2380ff80&label=Instagram%2Fmpgxc&logo=instagram&logoColor=%23FFF&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com/mpgx.c)](https://www.instagram.com/mpgx.c)
 </samp>
 [![Twitter URL](https://img.shields.io/twitter/url?color=%232380ff80&label=Kaggle%2Fmpgxc&logo=kaggle&logoColor=FFF&style=for-the-badge&url=https%3A%2F%2Fwww.kaggle.com%2Fxwalker)](https://www.kaggle.com/xwalker)
+[![Twitter URL](https://img.shields.io/twitter/url?color=%232380ff80&label=Kaggle%2Fmpgxc&logo=kaggle&logoColor=FFF&style=for-the-badge&url=https%3A%2F%2Fwww.kaggle.com%2Fxwalker)](https://www.kaggle.com/xwalker)
