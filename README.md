@@ -14,14 +14,12 @@ Full-Stack Developer | Aspiring Software engineer | ⌛ (In progress)
 - :gem: I love to customize everything lol
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+## ➤ My stats
 
 <a href="https://github.com/mpgxc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpgxc&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpgxc&layout=compact" />
 </a>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 ## ➤ Social media :mailbox_with_no_mail:
 
