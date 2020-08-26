@@ -9,7 +9,7 @@ Full-Stack Developer | Aspiring Software engineer | ⌛ (In progress)
   :mag: NLP Researcher | 😴 Sleep Professional | 💻 Aspiring developer
 
 - :earth_americas: I'm from Picos - Piauí, Brasil
-- :man_technologist: I’m currently studying at Rocketseat
+- :man_technologist: I’m currently studying at [@Rocketseat](https://github.com/Rocketseat)
 - 💜 computer ReactJS, Node, React Native, Typescript
 - :gem: I love to customize everything lol
 
