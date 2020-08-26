@@ -6,13 +6,20 @@ Full-Stack | Software engineer | ⌛ (In progress)
 
 ## ➤ About me 
 
-  :mag: Researcher | 😴 Sleep | 💻 Programming
+  :mag: NLP Researcher | 😴 Sleep Professional | 💻 Aspiring developer
 
 - :earth_americas: I'm from Picos - Piauí, Brasil
 - :man_technologist: I’m currently studying at Rocketseat
 - 💜 computer ReactJS, Node, React Native, Typescript
 - :gem: I love to customize everything lol
 
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+<a href="https://github.com/mpgxc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpgxc&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpgxc&layout=compact" />
+</a>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
