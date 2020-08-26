@@ -17,8 +17,8 @@ Full-Stack Developer | Aspiring Software engineer | ⌛ (In progress)
 ## ➤ My stats
 
 <a href="https://github.com/mpgxc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpgxc&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpgxc&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpgxc&show_icons=true&theme=buefy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpgxc&layout=compact&theme=buefy" />
 </a>
 
 ## ➤ Social media :mailbox_with_no_mail:
