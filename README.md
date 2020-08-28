@@ -28,3 +28,4 @@ Full-Stack Developer | Aspiring Software engineer | ⌛ (In progress)
 </samp>
 [![Twitter URL](https://img.shields.io/twitter/url?color=8257e5&label=Kaggle&logo=kaggle&logoColor=FFF&style=for-the-badge&url=https%3A%2F%2Fwww.kaggle.com%2Fxwalker)](https://www.kaggle.com/xwalker)
 [![Twitter URL](https://img.shields.io/twitter/url?color=8257e5&label=rocketseat&logo=k&logoColor=FFF&style=for-the-badge&url=https%3A%2F%2Fwww.kaggle.com%2Fxwalker)](https://app.rocketseat.com.br/me/mpgxc)
+[![Visits Badge](https://badges.pufler.dev/visits/mpgxc/mpgxc?color=8257e5&label=VISITAS&logo=k&logoColor=FFF&style=for-the-badge&url=https%3A%2F%2Fwww.kaggle.com%2Fxwalker)](https://github.com/mpgxc/mpgxc)
