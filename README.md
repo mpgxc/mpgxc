@@ -10,7 +10,7 @@ Full-Stack Developer | Aspiring Software engineer | ⌛ (In progress)
 
 - :earth_americas: I'm from Picos - Piauí, Brasil
 - :man_technologist: I’m currently studying at [@Rocketseat](https://github.com/Rocketseat)
-- 💜 computer ReactJS, Node, React Native, Typescript
+- 💜 React JS/ Native, Node, Typescript
 - :gem: I love to customize everything lol
 
 
