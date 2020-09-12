@@ -2,7 +2,7 @@
 
 ## ➤ Hi there 👋, I'm Mateus Garcia :rocket:
 
-Full-Stack Developer | Aspiring Software engineer | ⌛ (In progress)
+Full-Stack Developer | Aspiring Software engineer | ⌛ (In training.)
 
 ## ➤ About me 
 
