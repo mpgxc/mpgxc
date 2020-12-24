@@ -2,7 +2,7 @@
 
 ## ➤ Hi there 👋, I'm Mateus Garcia :rocket:
 
-Full-Stack Developer | Aspiring Software engineer | ⌛ (In training.)
+Backend Developer | Aspiring Software engineer | ⌛ (In training.)
 
 ## ➤ About me 
 
@@ -10,6 +10,7 @@ Full-Stack Developer | Aspiring Software engineer | ⌛ (In training.)
 
 - :earth_americas: I'm from Picos - Piauí, Brasil
 - :man_technologist: I’m currently studying at [@Rocketseat](https://github.com/Rocketseat)
+- :man_technologist: I’m currently working on **VirteX Telecom**
 - 💜 React JS/ Native, Node, Typescript
 - :gem: I love to customize everything lol
 
