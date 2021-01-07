@@ -18,8 +18,9 @@ Backend Developer | Aspiring Software engineer | ⌛ (In training.)
 ## ➤ My stats
 
 <a href="https://github.com/mpgxc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpgxc&show_icons=true&theme=buefy" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpgxc&layout=compact&theme=buefy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpgxc&show_icons=true&theme=buefy "/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpgxc&layout=compact&theme=buefy "/>
 </a>
 
 ## ➤ Tools I use daily
