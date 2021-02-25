@@ -29,8 +29,8 @@ Backend Developer | Aspiring Software engineer | ⌛ (In training.)
 
 ## ➤ Social media :mailbox_with_no_mail:
 
-[![Linkedin URL](https://img.shields.io/twitter/url?color=8257e5&label=Linkedin&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/mpgxc)](https://www.linkedin.com/in/mpgxc)
-[![Instagram URL](https://img.shields.io/twitter/url?color=8257e5&label=Instagram&logo=instagram&logoColor=%23FFF&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com/mpgx.c)](https://www.instagram.com/mpgx.c)
+[![Linkedin URL](https://img.shields.io/twitter/url?color=7183eb&label=Linkedin&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/mpgxc)](https://www.linkedin.com/in/mpgxc)
+[![Instagram URL](https://img.shields.io/twitter/url?color=7183eb&label=Instagram&logo=instagram&logoColor=%23FFF&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com/mpgx.c)](https://www.instagram.com/mpgx.c)
 </samp>
-[![Twitter URL](https://img.shields.io/twitter/url?color=8257e5&label=Kaggle&logo=kaggle&logoColor=FFF&style=for-the-badge&url=https%3A%2F%2Fwww.kaggle.com%2Fxwalker)](https://www.kaggle.com/xwalker)
-[![Twitter URL](https://img.shields.io/twitter/url?color=8257e5&label=rocketseat&logo=k&logoColor=FFF&style=for-the-badge&url=https%3A%2F%2Fwww.kaggle.com%2Fxwalker)](https://app.rocketseat.com.br/me/mpgxc)
+[![Twitter URL](https://img.shields.io/twitter/url?color=7183eb&label=Kaggle&logo=kaggle&logoColor=FFF&style=for-the-badge&url=https%3A%2F%2Fwww.kaggle.com%2Fxwalker)](https://www.kaggle.com/xwalker)
+[![Twitter URL](https://img.shields.io/twitter/url?color=7183eb&label=rocketseat&logo=k&logoColor=FFF&style=for-the-badge&url=https%3A%2F%2Fwww.kaggle.com%2Fxwalker)](https://app.rocketseat.com.br/me/mpgxc)
