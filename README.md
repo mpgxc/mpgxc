@@ -9,9 +9,9 @@ Backend Developer | Aspiring Software engineer | ⌛ (In training.)
   :mag: NLP Researcher | 😴 Sleep Professional | 💻 Aspiring developer
 
 - :earth_americas: I'm from Picos - Piauí, Brasil
-- :man_technologist: I’m currently studying at [@Rocketseat](https://github.com/Rocketseat)
-- :man_technologist: I’m currently working on [**VirteX Telecom**](https://virtex.com.br)
-- 💜 React JS/ Native, Node, Typescript
+- :man_technologist: I'm currently studying at [@Rocketseat](https://github.com/Rocketseat)
+- :man_technologist: I'am currently searching for a new opportunity
+- 💜  NodeJS, React JS/Native, Typescript
 - :gem: I love to customize everything lol
 
 
