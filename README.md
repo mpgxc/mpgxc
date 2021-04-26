@@ -10,7 +10,7 @@ Backend Developer | Aspiring Software engineer | ⌛ (In training.)
 
 - :earth_americas: I'm from Picos - Piauí, Brasil
 - :man_technologist: I'm currently studying at [@Rocketseat](https://github.com/Rocketseat)
-- :man_technologist: I'am currently searching for a new opportunity
+- :man_technologist: I'am currently working at [@Brisalabs](https://github.com/brisalabs)
 - 💜  NodeJS, React JS/Native, Typescript
 - :gem: I love to customize everything lol
 
