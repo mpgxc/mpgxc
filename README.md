@@ -2,15 +2,10 @@
 
 ## ➤ Hi there 👋, I'm Mateus Garcia :rocket:
 
-Backend Developer | Aspiring Software engineer | ⌛ (In training.)
-
-## ➤ About me 
-
-  :mag: NLP Researcher | 😴 Sleep Professional | 💻 Aspiring developer
-
-- :earth_americas: I'm from Picos - Piauí, Brasil
+  🤖 NLP DL enthusiast | 👨‍💻 Backend Developer | 💻 Aspiring Software Engineer | ⌛ (In training.)
+- :earth_americas: I'm from Crato, Ceará - Brasil
 - :man_technologist: I'm currently studying at [@Rocketseat](https://github.com/Rocketseat)
-- :man_technologist: I'am currently working at [@Brisalabs](https://github.com/brisalabs)
+- :man_technologist: I'am currently working at [@Brisalabs](https://github.com/brisalabs) in Juazeiro, Ceará - Brasil
 - 💜 Focusing in Backend solutions with Nodejs / Typescript
 
 ## ➤ My stats
