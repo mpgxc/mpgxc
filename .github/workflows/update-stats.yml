@@ -5,7 +5,7 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: '0/15 * * * *'
+    - cron: '*/15 * * * *'
 
 jobs:
   update-readme:
