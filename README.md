@@ -1,6 +1,6 @@
 <samp>
   
-## ⚡ Mateus Garcia, "the Garcia" :rocket:  [![Android Actions status](https://github.com/mpgxc/mpgxc/workflows/update-stats/badge.svg)](https://github.com/mpgxc/mpgxc/actions)
+## ⚡ Mateus Garcia, "the Garcia" :rocket: 
   
 
 #### 👨‍💻 Backend Software Developer | 💻 Aspiring Software Engineer
@@ -25,21 +25,12 @@ Currently, I've been studying software architecture and code design with topics 
 ---
  
 <!--START_SECTION:waka-->
-```text
-Week: 21 August, 2021 - 27 August, 2021
-
-TypeScript   34 hrs 37 mins  █████████████████████░░░░   84.60 % 
-Other        1 hr 37 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-JSON         1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Python       1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-CSS          54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-```
 <!--END_SECTION:waka-->
   
 </samp>
 
-[![Rocketseat](https://img.shields.io/badge/-Rocketseat%20Profile-33cc66?style=flat-square&labelColor=33cc66&logoColor=white&link=https://app.rocketseat.com.br/me/mpgxc)](https://app.rocketseat.com.br/me/mpgxc)
-[![Instagram](https://img.shields.io/badge/-Mateus%20Garcia-33cc66?style=flat-square&labelColor=33cc66&logo=instagram&logoColor=white&link=https://www.instagram.com/mpg.x)](https://www.instagram.com/mpg.x) 
-[![Kaggle](https://img.shields.io/badge/-Mateus%20Garcia-33cc66?style=flat-square&labelColor=33cc66&logo=kaggle&logoColor=white&link=https://www.kaggle.com/xwalker)](https://www.kaggle.com/xwalker) 
-[![Linkedin](https://img.shields.io/badge/-Mateus%20Garcia-33cc66?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mpgxc)](https://www.linkedin.com/in/mpgxc) 
-[![Gmail](https://img.shields.io/badge/-mpgx5.c@gmail.com-33cc66?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:mpgx5.c@gmail.com)
+[![Rocketseat](https://img.shields.io/badge/-Rocketseat%20Profile-8c52e5?style=flat-square&labelColor=8c52e5&logoColor=white&link=https://app.rocketseat.com.br/me/mpgxc)](https://app.rocketseat.com.br/me/mpgxc)
+[![Instagram](https://img.shields.io/badge/-Mateus%20Garcia-8c52e5?style=flat-square&labelColor=8c52e5&logo=instagram&logoColor=white&link=https://www.instagram.com/mpg.x)](https://www.instagram.com/mpg.x) 
+[![Kaggle](https://img.shields.io/badge/-Mateus%20Garcia-8c52e5?style=flat-square&labelColor=8c52e5&logo=kaggle&logoColor=white&link=https://www.kaggle.com/xwalker)](https://www.kaggle.com/xwalker) 
+[![Linkedin](https://img.shields.io/badge/-Mateus%20Garcia-8c52e5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mpgxc)](https://www.linkedin.com/in/mpgxc) 
+[![Gmail](https://img.shields.io/badge/-mpgx5.c@gmail.com-8c52e5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:mpgx5.c@gmail.com)
