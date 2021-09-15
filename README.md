@@ -1,3 +1,5 @@
+<img align="right" height="300px" src=".github/workflows/image.svg" />
+
 <samp>
   
 ## ⚡ Mateus Garcia, "the Garcia" :rocket: 
@@ -25,15 +27,6 @@ Currently, I've been studying software architecture and code design with topics 
 ---
  
 <!--START_SECTION:waka-->
-```text
-Week: 08 September, 2021 - 14 September, 2021
-
-TypeScript   31 hrs 26 mins  ██████████████████████▒░░   89.57 % 
-Other        1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Bash         52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-JSON         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-SQL          13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-```
 <!--END_SECTION:waka-->
   
 </samp>
