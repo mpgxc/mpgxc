@@ -1,4 +1,4 @@
-<img align="right" height="300px" src=".github/workflows/image.svg" />
+<img align="right" height="300px" src=".github/dev.png" />
 
 <samp>
   
