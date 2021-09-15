@@ -1,4 +1,4 @@
-<img align="right" height="300px" src=".github/dev.png" />
+<img align="right" height="200px" src=".github/dev2.png" />
 
 <samp>
   
