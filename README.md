@@ -1,5 +1,3 @@
-<img align="right" height="200px" src=".github/dev2.png" />
-
 <samp>
   
 ## ⚡ Mateus Garcia, "the Garcia" :rocket: 
