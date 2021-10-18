@@ -28,13 +28,13 @@ Currently, I've been studying software architecture and code design with topics 
  
 <!--START_SECTION:waka-->
 ```text
-Week: 10 October, 2021 - 16 October, 2021
+Week: 11 October, 2021 - 17 October, 2021
 
-TypeScript   12 hrs 28 mins  █████████████░░░░░░░░░░░░   52.23 % 
-JSON         2 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Other        2 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Python       1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Docker       1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+TypeScript   7 hrs 52 mins   ██████████▓░░░░░░░░░░░░░░   43.04 % 
+Other        2 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Python       2 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+JSON         1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Docker       1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 ```
 <!--END_SECTION:waka-->
   
