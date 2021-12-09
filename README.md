@@ -28,11 +28,11 @@ Currently, I've been studying software architecture and code design with topics 
  
 <!--START_SECTION:waka-->
 ```text
-Week: 01 December, 2021 - 07 December, 2021
+Week: 02 December, 2021 - 08 December, 2021
 
-JSON         20 mins         ███████████▓░░░░░░░░░░░░░   46.50 % 
-YAML         11 mins         ███████░░░░░░░░░░░░░░░░░░   27.71 % 
-TypeScript   10 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.21 % 
+JSON         20 mins         ███████████▒░░░░░░░░░░░░░   45.32 % 
+TypeScript   12 mins         ███████░░░░░░░░░░░░░░░░░░   27.70 % 
+YAML         11 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.42 % 
 ```
 <!--END_SECTION:waka-->
   
