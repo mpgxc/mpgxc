@@ -28,7 +28,7 @@ Currently, I've been studying software architecture and code design with topics 
  
 <!--START_SECTION:waka-->
 ```text
-Week: 04 December, 2021 - 10 December, 2021
+Week: 05 December, 2021 - 11 December, 2021
 
 YAML         11 mins         ████████▓░░░░░░░░░░░░░░░░   34.82 % 
 TypeScript   11 mins         ████████▓░░░░░░░░░░░░░░░░   34.01 % 
