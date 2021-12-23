@@ -8,7 +8,7 @@
 #### 👨‍💻 Backend Software Developer | 💻 Aspiring Software Engineer
 
   
-I love programming in Python, Nodejs, React. I currently work at Brisanet Telecomunicações as a backend software developer with Nodejs and occasionally play with Python to learn a bit of machine learning and NLP.
+I love programming in Python, Nodejs, React. I currently work at Compass.uol as a backend software developer with Nodejs and occasionally play with Python to learn a bit of machine learning and NLP.
 
   
 Currently, I've been studying software architecture and code design with topics like Clean Architecture, Domain-Driven Design, SOLID principles and other interesting topics and I'm also trying to apply all these concepts in study projects and at my work with nodejs and typescript.
@@ -27,12 +27,6 @@ Currently, I've been studying software architecture and code design with topics 
 ---
  
 <!--START_SECTION:waka-->
-```text
-Week: 16 December, 2021 - 22 December, 2021
-
-TypeScript   11 mins         ███████████████████░░░░░░   76.22 % 
-YAML         2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.39 % 
-```
 <!--END_SECTION:waka-->
   
 </samp>
