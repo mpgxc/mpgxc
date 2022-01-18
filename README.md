@@ -28,7 +28,7 @@ Currently, I've been studying software architecture and code design with topics 
  
 <!--START_SECTION:waka-->
 ```text
-Week: 10 January, 2022 - 16 January, 2022
+Week: 11 January, 2022 - 17 January, 2022
 
 Python   26 mins         ███████████████████████▓░   95.15 % 
 CSV      1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
