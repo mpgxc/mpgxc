@@ -17,7 +17,9 @@ Currently, I've been studying software architecture and code design with topics 
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+From: 18 February, 2022 - To: 25 February, 2022
+
+JavaScript   55 mins         ████████████████████████▓   98.79 % 
 ```
 <!--END_SECTION:waka-->
   
