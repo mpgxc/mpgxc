@@ -16,12 +16,14 @@ Currently, I've been studying software architecture and code design with topics 
 ---
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-JavaScript   1 hr 33 mins    ████████████████████████▓   98.39 % 
-Python       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+JavaScript   1 hr 33 mins    ████████████████████████▓   98.39 %
+Python       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
+
 <!--END_SECTION:waka-->
   
 </samp>
