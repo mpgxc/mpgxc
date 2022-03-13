@@ -18,14 +18,14 @@ Currently, I've been studying software architecture and code design with topics 
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 March 2022 - To: 11 March 2022
+From: 05 March 2022 - To: 12 March 2022
 
-JavaScript   6 hrs 58 mins   ███████████████▒░░░░░░░░░   60.73 %
-TypeScript   2 hrs 1 min     ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
-Bash         52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-YAML         41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-JSON         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-PHP          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+JavaScript   9 hrs 17 mins   █████████████████░░░░░░░░   68.11 %
+TypeScript   1 hr 49 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
+Bash         59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+JSON         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+YAML         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+PHP          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
