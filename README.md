@@ -1,4 +1,3 @@
-<img align="right" height="200px" src=".github/dev.png" />
 
 <samp>
   
