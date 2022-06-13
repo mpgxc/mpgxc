@@ -17,7 +17,7 @@ Currently, I've been studying software architecture and code design with topics 
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 June 2022 - To: 12 June 2022
+From: 06 June 2022 - To: 13 June 2022
 
 JavaScript   4 hrs 43 mins   ████████████████████▓░░░░   82.78 %
 Other        22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
