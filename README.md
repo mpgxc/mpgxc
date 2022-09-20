@@ -17,13 +17,13 @@ Currently, I've been studying software architecture and code design with topics 
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 September 2022 - To: 18 September 2022
+From: 12 September 2022 - To: 19 September 2022
 
-JavaScript   24 hrs 15 mins  ███████████████████████░░   91.74 %
-Python       1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-TypeScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+JavaScript   18 hrs 6 mins   ██████████████████████▒░░   89.29 %
+Python       1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+TypeScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
