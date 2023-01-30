@@ -17,7 +17,7 @@ Currently, I've been studying software architecture and code design with topics 
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 January 2023 - To: 29 January 2023
+From: 23 January 2023 - To: 30 January 2023
 
 TypeScript   4 hrs 34 mins   ███████████████████████░░   91.78 %
 Bash         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
