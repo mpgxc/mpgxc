@@ -4,7 +4,7 @@
 ## ⚡ Mateus Garcia, "O Garcia" :rocket: 
   
 
-#### 👨‍💻 Backend Software Developer | 💻 Aspiring Software Engineer
+#### 💻 Backend Aspiring Software Engineer
 
   
 I love programming in Python, Nodejs, React. I currently work at Compass.uol as a backend software developer with Nodejs and occasionally play with Python to learn a bit of machine learning and NLP.
