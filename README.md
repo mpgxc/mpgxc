@@ -6,11 +6,9 @@
 
 #### 💻 Backend Software Engineer
 
-  
-I love programming in Python, Nodejs, React. I currently work at Compass.uol as a backend software developer with Nodejs and occasionally play with Python to learn a bit of machine learning and NLP.
+Sou apaixonado por programação em Python, Node.js e React. Atualmente, trabalho na Compass.uol como desenvolvedor de software back-end usando Node.js e, ocasionalmente, brinco com Python para aprender um pouco de aprendizado de máquina e NLP.
 
-  
-Currently, I've been studying software architecture and code design with topics like Clean Architecture, Domain-Driven Design, SOLID principles and other interesting topics and I'm also trying to apply all these concepts in study projects and at my work with nodejs and typescript.
+Atualmente, tenho me dedicado a estudar arquitetura de software e design de código com tópicos como Clean Architecture, Domain-Driven Design, princípios SOLID e outros assuntos interessantes, e também estou tentando aplicar todos esses conceitos em projetos de estudo e no meu trabalho com Node.js e TypeScript
 
 ---
 
