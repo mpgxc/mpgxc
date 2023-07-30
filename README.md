@@ -15,7 +15,7 @@ Atualmente, tenho me dedicado a estudar arquitetura de software e design de cód
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 July 2023 - To: 29 July 2023
+From: 23 July 2023 - To: 30 July 2023
 
 TypeScript   5 hrs 9 mins    ████████████████▓░░░░░░░░   66.15 %
 JavaScript   1 hr 38 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
