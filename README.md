@@ -15,13 +15,13 @@ Atualmente, tenho me dedicado a estudar arquitetura de software e design de cód
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2023 - To: 06 October 2023
+From: 30 September 2023 - To: 07 October 2023
 
-JSON              1 hr 21 mins    ████████████░░░░░░░░░░░░░   47.60 %
-TypeScript        54 mins         ████████░░░░░░░░░░░░░░░░░   31.72 %
-Java Properties   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-Ezhil             10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
-Markdown          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+TypeScript        1 hr 48 mins    ███████████▓░░░░░░░░░░░░░   47.33 %
+JSON              1 hr 24 mins    █████████░░░░░░░░░░░░░░░░   36.63 %
+Java Properties   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+Ezhil             10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+Markdown          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
