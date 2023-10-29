@@ -13,22 +13,11 @@ Atualmente, tenho me dedicado a estudar arquitetura de software e design de cód
 ---
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 21 October 2023 - To: 28 October 2023
-
-TypeScript        35 hrs 2 mins   ██████████████████▓░░░░░░   74.46 %
-JSON              4 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
-JavaScript        2 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-Bash              1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-YAML              53 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-```
-
 <!--END_SECTION:waka-->
   
 </samp>
 
 [![Instagram](https://img.shields.io/badge/-Mateus%20Garcia-c080ff?style=flat-square&labelColor=c080ff&logo=instagram&logoColor=white&link=https://www.instagram.com/mpg.x)](https://www.instagram.com/mpg.x) 
-[![Linkedin](https://img.shields.io/badge/-Mateus%20Garcia-c080ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mpgxc)](https://www.linkedin.com/in/mpgxc) 
+[![Linkedin](https://img.shields.io/badge/-Mateus%20Garcia-c080ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mpgxc)](https://www.linkedin.com/in/mateusogarcia) 
 [![Gmail](https://img.shields.io/badge/-mpgx5.c@gmail.com-c080ff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:mpgx5.c@gmail.com)
 [![Rocketseat](https://img.shields.io/badge/-Rocketseat%20Profile-c080ff?style=flat-square&labelColor=c080ff&logoColor=white&link=https://app.rocketseat.com.br/me/mpgxc)](https://app.rocketseat.com.br/me/mpgxc)
