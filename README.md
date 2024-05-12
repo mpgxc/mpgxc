@@ -15,13 +15,13 @@ My work primarily involves Node.js and TypeScript, where I'm constantly seeking 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2024 - To: 11 May 2024
+From: 05 May 2024 - To: 12 May 2024
 
-TypeScript   10 hrs 8 mins   ████████▓░░░░░░░░░░░░░░░░   35.23 %
-JavaScript   9 hrs 56 mins   ████████▓░░░░░░░░░░░░░░░░   34.51 %
-YAML         2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-Python       1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-Bash         1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+JavaScript   9 hrs 35 mins   █████████▓░░░░░░░░░░░░░░░   38.85 %
+TypeScript   9 hrs 32 mins   █████████▓░░░░░░░░░░░░░░░   38.67 %
+Python       1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Bash         1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+YAML         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
 
 <!--END_SECTION:waka-->
