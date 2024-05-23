@@ -1,9 +1,6 @@
 
 <samp>
   
-## ⚡ Mateus Garcia, "O Garcia" :rocket: 
-  
-
 #### 💻 Backend Software Engineer
 
 As a dedicated Backend Software Engineer with a strong foundation in Node.js, I currently thrive at Compass.uol. My primary focus is on developing robust backend solutions using Node.js and TypeScript.
