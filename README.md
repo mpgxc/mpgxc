@@ -12,7 +12,7 @@ I am passionate about exploring and advancing my expertise in serverless archite
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2024 - To: 08 June 2024
+From: 02 June 2024 - To: 09 June 2024
 
 JavaScript   8 hrs 58 mins   ██████████████████▒░░░░░░   73.24 %
 YAML         1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
