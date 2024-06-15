@@ -12,13 +12,13 @@ I am passionate about exploring and advancing my expertise in serverless archite
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2024 - To: 14 June 2024
+From: 08 June 2024 - To: 15 June 2024
 
-JavaScript   13 hrs 40 mins  ███████████████░░░░░░░░░░   60.49 %
-YAML         3 hrs 48 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
-Bash         1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-Python       1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-Docker       1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+JavaScript   15 hrs 51 mins  ████████████████░░░░░░░░░   63.51 %
+Python       2 hrs 55 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+YAML         2 hrs 47 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+Bash         1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+Docker       1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
 ```
 
 <!--END_SECTION:waka-->
