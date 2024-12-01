@@ -12,7 +12,7 @@ I am passionate about exploring and advancing my expertise in serverless archite
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2024 - To: 30 November 2024
+From: 24 November 2024 - To: 01 December 2024
 
 TypeScript   56 mins         ████████████████████▒░░░░   81.19 %
 JSON         9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
