@@ -12,13 +12,13 @@ I am passionate about exploring and advancing my expertise in serverless archite
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 January 2025 - To: 21 January 2025
+From: 15 January 2025 - To: 22 January 2025
 
-TypeScript   18 hrs 7 mins   ███████████████████▓░░░░░   78.26 %
-YAML         4 hrs 39 mins   █████░░░░░░░░░░░░░░░░░░░░   20.12 %
-JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Python       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+TypeScript   16 hrs 54 mins  ███████████████████░░░░░░   75.64 %
+YAML         4 hrs 53 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.86 %
+JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Bash         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
