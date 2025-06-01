@@ -12,7 +12,7 @@ I am passionate about exploring and advancing my expertise in serverless archite
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2025 - To: 31 May 2025
+From: 25 May 2025 - To: 01 June 2025
 
 TypeScript   17 hrs 24 mins  ███████████████████▒░░░░░   77.99 %
 Python       2 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
