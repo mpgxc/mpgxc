@@ -3,7 +3,7 @@
   
 #### 💻 Backend Software Engineer
 
-As a dedicated Backend Software Engineer with a strong foundation in Node.js, I currently thrive at Compass.uol. My primary focus is on developing robust backend solutions using Node.js and TypeScript.
+As a dedicated Backend Software Engineer with a strong foundation in Node.js, my primary focus is on developing robust backend solutions using Node.js and TypeScript.
 
 I am passionate about exploring and advancing my expertise in serverless architectures, particularly within the AWS Cloud environment and leveraging the serverless framework. Continuously seeking to improve my skills and knowledge, I am committed to delivering high-quality, scalable, and efficient backend systems.
 
